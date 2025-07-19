@@ -1,2 +1,2 @@
-# warrior_class
+# my projects
 working with classes
