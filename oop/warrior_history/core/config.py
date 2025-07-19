@@ -1,0 +1,79 @@
+import model.warrior_class as War_class
+import model.weapons as weapons
+
+
+main_hero = War_class.SwordMan("slabo_umnyi", 120, 40, 1.1, [weapons.Butterfly])
+ar = War_class.Archer("dimon", 100, 15, 1, [weapons.Rapira])
+am = War_class.Magek("maks", 90, 40, 1.2,[weapons.Forsstaf], 30)
+gb = War_class.Goblen("idiot", 40, 10, 0.5, [weapons.Rapira],"bong")
+sk = War_class.Skelet("idiot", 40, 10, 0.6, [weapons.Rapira],"arrow")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
